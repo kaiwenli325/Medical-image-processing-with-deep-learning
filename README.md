@@ -1,2 +1,2 @@
 # Medical-image-processing-with-deep-learning
-Implementation of some deep learning methods for medical image processing
+In this project, I will implement some deep learning models for medical image processing. 
